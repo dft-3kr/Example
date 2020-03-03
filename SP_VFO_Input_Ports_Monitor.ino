@@ -6,7 +6,10 @@
   D Taylor 5-Jan-2020
 
   Reads analog and digital input pins, prints the results to the Serial Monitor.
-  Used for setting up and testing the SP_VFO script by VK3HN
+  
+  Used for setting up and testing the SP_VFO script by VK3HN.
+
+  A quick and dirty script for testing only. No attempt has been made to optimise code.
 
 */
 
